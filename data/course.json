@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "728ffe86-d083-ff18-71ad-71d94ca80371"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Seminar in Environmental Science",
+  "course_description": "Required for all Earth, Atmospheric, and Planetary Sciences majors in the Environmental Science track, this course is an introduction to current research in the field. Stresses integration of central scientific concepts in environmental policy making and the chemistry, biology, and geology environmental science tracks. Revisits selected core themes for students who have already acquired a basic understanding of environmental science concepts. The topic for this term is geoengineering.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.085",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
